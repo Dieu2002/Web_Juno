@@ -25,7 +25,7 @@ function dangky() {
                 }
             }
 
-            // post data có từ cái mock tao lạy m
+            
             var data = {
                 fullname: add_name,
                 mail: add_mail,
